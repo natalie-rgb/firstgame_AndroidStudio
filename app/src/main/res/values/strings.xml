@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My play</string>
+    <string name="PLAY">PLAY</string>
+    <string name="TAP">TAP</string>
+    <string name="Score">Your score: %1$d</string>
+    <string name="Time">Time left: %1$d</string>
+    <string name="game_over_message">Time up, your scor was: %1$d</string>
+</resources>
